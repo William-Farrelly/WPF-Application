@@ -23,6 +23,7 @@ namespace WpfApplication2
         public MainWindow()
         {
             PrintDialog (dhfhf)
+                as
             InitializeComponent();
         }
     }
